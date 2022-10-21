@@ -13,6 +13,18 @@ to which all contributors must adhere.
 
 See [details on our policy on Code of Conduct](./doc/contributing/code-of-conduct.md).
 
+## First time contributing
+If this is your first time contributing to the project here are a couple of resources
+to git you started!
+
+* [Comprehensive git tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk&t=878s)
+* [Crash course git tutorial](https://www.youtube.com/watch?v=USjZcfj8yxE)
+
+Once you're ready to commit your code and create a pull request , here's some
+resources to get you up to speed with the pull request system here on Github.
+
+* [Pull request tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
+
 ## [Issues](./doc/contributing/issues.md)
 
 * [Asking for General Help](./doc/contributing/issues.md#asking-for-general-help)
