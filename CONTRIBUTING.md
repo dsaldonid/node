@@ -25,6 +25,10 @@ resources to get you up to speed with the pull request system here on Github.
 
 * [Pull request tutorial](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
 
+To learn how to set up your environment to get your local version of node on your machine 
+go down to the pull request section below.
+
+
 ## [Issues](./doc/contributing/issues.md)
 
 * [Asking for General Help](./doc/contributing/issues.md#asking-for-general-help)
